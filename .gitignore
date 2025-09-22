@@ -1,4 +1,3 @@
-/zig-cache/
-/zig-out/
-*.o
-*.exe
+/target
+Cargo.lock
+**/*.rs.bk
